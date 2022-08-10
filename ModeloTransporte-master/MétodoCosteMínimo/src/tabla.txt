@@ -1,0 +1,6 @@
+plantas,Cali,Bogota,Medellin,barranquilla,Oferta
+planta1,5,2,7,3,80
+planta2,3,6,6,1,30
+planta3,6,1,2,4,60
+planta4,4,3,6,6,45
+Demanda,70,40,70,35,0
